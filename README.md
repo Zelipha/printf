@@ -1,2 +1,1 @@
-# 0x11. C - printf
-**ALX/Holberton printf project
+## Alx/Holberton printf project
